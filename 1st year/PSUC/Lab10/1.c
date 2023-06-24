@@ -1,3 +1,6 @@
+//Write a recursive function, GCD to find the GCD of two numbers. Write a main program which reads 2 numbers and finds the GCD 
+//of the numbers using the specified function. Ex: GCD of 9, 24 is 3.
+
 #include<stdio.h>
 int gcd(int x, int y)
  {
